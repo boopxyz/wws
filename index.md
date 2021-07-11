@@ -12,6 +12,8 @@ Flood: #1d69cc
 <h4 style="test-align: center">1 <span style="color:#cc1d1d">Active</span> Weather Alert</h4>
 <h5 style="test-align: center; color:#cc661d">Severe Thunderstorm Watch</h5>
 <h6>Effective Time: <span style="color:#5dcc1d">3:30 PM EDT</span> to <span style="color:#cc1d1d">9:00 PM EDT</span></h6>
+<h6>Affected Areas: <span style="color:#cc1d1d">Carlisle</span></h6>
+<h6>Additional Details: At 3:08 PM EDT, doppler radar indicated a thunderstorm moving North East at unknown speeds. This thunderstorm can produce high winds and heavy rain which can result it in becoming a severe thunderstorm. Please stay indoors to stay safe during a thunderstorm.</h6>
 
 # Recent News
 
