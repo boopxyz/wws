@@ -1,10 +1,16 @@
 ---
 layout: default
 ---
+<!-- Severe Thunderstorm: #cc661d
+Tornado: #cc1d1d
+Flood: #1d69cc
+-->
 
 # Active Weather Alerts
 
-<h4>No <span style="color:#5dcc1d">Active</span> Weather Alerts</h4>
+<!--<h4 style="test-align: center">No <span style="color:#5dcc1d">Active</span> Weather Alerts</h4>-->
+<h4 style="test-align: center">1 <span style="color:#cc1d1d">Active</span> Weather Alert</h4>
+<h3 style="test-align: center; color:#cc661d">Severe Thunderstorm Watch</h3>
 
 # Recent News
 
@@ -13,7 +19,7 @@ We are a brand new weather service that operates in Carlisle, Pennsylvania. We p
 
 # Inactive Weather Alerts
 
-<h4>No <span style="color:#cc1d1d">Inactive</span> Weather Alerts</h4>
+<h4 style="test-align: center">No <span style="color:#cc1d1d">Inactive</span> Weather Alerts</h4>
 
 ### Header 3
 
