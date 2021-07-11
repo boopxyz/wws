@@ -4,7 +4,7 @@ layout: default
 
 # Active Weather Alerts
 
-<h4>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</h4>
+<h4>No <span style="color:#5dcc1d">Active</span> Weather Alerts</h4>
 
 # Recent News
 
@@ -13,7 +13,7 @@ We are a brand new weather service that operates in Carlisle, Pennsylvania. We p
 
 # Inactive Weather Alerts
 
-#### No Inactive Weather Alerts
+<h4>No <span style="color:#cc1d1d">Inactive</span> Weather Alerts</h4>
 
 ### Header 3
 
