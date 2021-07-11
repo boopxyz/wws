@@ -12,9 +12,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Active Weather Alerts
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+#### No Active Weather Alerts
 
-# Previous Weather Alerts
+# Recent News
+
+#### Welcome to the Walnut Weather Server
+We are a brand new weather service that operates in Carlisle, Pennsylvania. We provide coverage for the city of Carlisle.
+
+# Inactive Weather Alerts
 
 > This is a blockquote following a header.
 >
