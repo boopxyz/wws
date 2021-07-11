@@ -44,14 +44,12 @@
   </head>
 
   <body>
-    <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
-    <div class="shell">
+    	<div class="alert">
+	    <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+       <strong>1 Active</strong> Weather Alert
+     </div>
 
       <header>
-	  <div class="alert">
-	    <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
-       <strong>Danger!</strong> Indicates a dangerous or potentially negative action.
-     </div>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
             <h1>{{ site.title | default: site.github.repository_name }}</h1>
